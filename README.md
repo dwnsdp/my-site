@@ -1,9 +1,23 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+Hi, I'm
+# Jake McGowan
+I'm into creative digital media. I also go by **@dwnsdp**
+# Links
+I think I am funny.
+[Bluesky](https://bsky.app/profile/dwnsdp.bsky.social)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
+I like to do landscape photography, as well as art in Blender.
+[Pixelfed](https://portfolio.pixelfed.social/dwnsdp)
 
----
-## Docs
-Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+Made in Bitwig and Musescore.
+[Soundcloud](https://soundcloud.com/jake-mcgowan-music)
+
+I made one successfull mod but hey.
+[Modrinth](https://modrinth.com/user/dwnsdp)
+
+Send money my way (nobody has ever clicked this link before)
+[Buy me a coffee](http://buymeacoffee.com/dwnsdp)
+
+If in dire need of communication:
+[Email Me](mailto:jwimcgowan@gmail.com)
+
+This website is built with [Obsidian Digital Garden](https://dg-docs.ole.dev/) with the [Primary Theme](https://github.com/primary-theme/obsidian)
