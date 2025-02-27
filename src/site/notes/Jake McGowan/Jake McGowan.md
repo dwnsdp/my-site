@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/jake-mc-gowan/jake-mc-gowan/","tags":["gardenEntry"]}
 ---
 
-Hi, I'm **Jake McGowan**;
+Hi, I'm
+# Jake McGowan
 I'm into creative digital media. I also go by **@dwnsdp**
 # Links
 I think I am funny.
