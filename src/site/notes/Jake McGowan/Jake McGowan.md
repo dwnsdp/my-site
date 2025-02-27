@@ -22,7 +22,6 @@ Send money my way (nobody has ever clicked this link before)
 
 If in dire need of communication:
 [Email Me](mailto:jwimcgowan@gmail.com)
-asdfasdf
 # Index
 
 
