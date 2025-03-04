@@ -12,10 +12,10 @@ I'm into creative digital media. I also go by **@dwnsdp**
 [Modrinth](https://modrinth.com/user/dwnsdp)
 [Buy me a coffee](http://buymeacoffee.com/dwnsdp)
 [Email Me](mailto:jwimcgowan@gmail.com)
-
-This website is built on [Obsidian Digital Garden](https://dg-docs.ole.dev/) with the [Primary Theme](https://github.com/primary-theme/obsidian)
-
 # Index
 (This is a slight place holder for the circumstance in which I add any articles to my website)
 
 
+
+# Footer
+This website is built on [Obsidian Digital Garden](https://dg-docs.ole.dev/) with the [Primary Theme](https://github.com/primary-theme/obsidian)
