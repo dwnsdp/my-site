@@ -5,7 +5,7 @@
 Hi, I'm
 # Jake McGowan
 I'm into creative digital media. I also go by **@dwnsdp**
-# Links
+
 [Bluesky](https://bsky.app/profile/dwnsdp.bsky.social)
 [Pixelfed](https://portfolio.pixelfed.social/dwnsdp)
 [Soundcloud](https://soundcloud.com/jake-mcgowan-music)
@@ -15,6 +15,3 @@ I'm into creative digital media. I also go by **@dwnsdp**
 
 
 
-
-# Footer
-This website is built on [Obsidian Digital Garden](https://dg-docs.ole.dev/) with the [Primary Theme](https://github.com/primary-theme/obsidian)
