@@ -12,8 +12,7 @@ I'm into creative digital media. I also go by **@dwnsdp**
 [Modrinth](https://modrinth.com/user/dwnsdp)
 [Buy me a coffee](http://buymeacoffee.com/dwnsdp)
 [Email Me](mailto:jwimcgowan@gmail.com)
-# Index
-(This is a slight place holder for the circumstance in which I add any articles to my website)
+
 
 
 
