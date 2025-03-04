@@ -6,25 +6,14 @@ Hi, I'm
 # Jake McGowan
 I'm into creative digital media. I also go by **@dwnsdp**
 # Links
-I think I am funny.
 [Bluesky](https://bsky.app/profile/dwnsdp.bsky.social)
-
-I like to do landscape photography, as well as art in Blender.
 [Pixelfed](https://portfolio.pixelfed.social/dwnsdp)
-
-Made in Bitwig and Musescore.
 [Soundcloud](https://soundcloud.com/jake-mcgowan-music)
-
-I made one successfull mod but hey.
 [Modrinth](https://modrinth.com/user/dwnsdp)
-
-Send money my way (nobody has ever clicked this link before)
 [Buy me a coffee](http://buymeacoffee.com/dwnsdp)
-
-If in dire need of communication:
 [Email Me](mailto:jwimcgowan@gmail.com)
 
-This website is built with [Obsidian Digital Garden](https://dg-docs.ole.dev/) with the [Primary Theme](https://github.com/primary-theme/obsidian)
+This website is built on [Obsidian Digital Garden](https://dg-docs.ole.dev/) with the [Primary Theme](https://github.com/primary-theme/obsidian)
 
 # Index
 (This is a slight place holder for the circumstance in which I add any articles to my website)
