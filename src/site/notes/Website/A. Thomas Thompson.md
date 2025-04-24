@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/website/a-thomas-thompson/"}
 ---
 
-
+# A. Thomas Thompson
 > [!Type] Short Story
 
 His name is A. Thomas Thompson. The A is for Alfred, though nobody knows this. He lives in a flat in a central London and works at a stand in which he sells newspapers along with other things that people may need such as a cigarettes and sweet drinks. Thomas is a news agent.
