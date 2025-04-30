@@ -14,6 +14,6 @@ I'm into creative digital media. I also go by **@dwnsdp**
 [Buy me a coffee](http://buymeacoffee.com/dwnsdp)  
 [Email Me](mailto:jwimcgowan@gmail.com)
 
-[[Website/College/College\|College Work]]
+[[College\|College Work]]
 
 Yes this website does contain other pages. Though I do not have them indexed they are intended mainly to be found via search (such as information) or through me sharing them (such as stories)
