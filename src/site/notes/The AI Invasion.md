@@ -20,6 +20,7 @@ These are the stats I have seen quoted before. And while at first this may seem 
 | **HD Video Streaming**     | [~180–360 Wh](https://www.weforum.org/stories/2020/03/carbon-footprint-netflix-video-streaming-climate-change/) | 1 hr/day at 0.18–0.36 kWh/hr                                                                                                                  |
 | **ChatGPT (GPT‑4o)**       | [~2.4 Wh](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use)                                   | 8 query/day, ~0.3 Wh each                                                                                                                     |
 | **Cloud Storage (Google)** | [~84 Wh](https://techcrunch.com/2025/07/01/googles-data-center-energy-use-doubled-in-four-years/)               | This is google's cloud storage. But if you have an iPhone or an Android your photos are automatically backed up to some form of cloud storage |
+
 This means streaming video is about 100 times worse than messaging chatgpt.
 # Water Usage
 
