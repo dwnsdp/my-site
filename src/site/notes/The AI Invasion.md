@@ -11,7 +11,7 @@ AI is not as bad as you think but I still dislike it in the state it is currentl
 > - 4.3 acres of carbon absorbed by U.S. forests in one year
 > - 349,258 smartphones charged
 
-These are the stats I have seen quoted before. And while at first this may seem terrible, especially baring in mind it is messaged ~4 billion times a month. But it is worth noting that the average person who uses ChatGPT is likely to use other online services which are equal or worse.
+These are the stats I have seen quoted before. And while at first this may seem terrible, especially considering it is messaged ~4 billion times a month. But it is worth noting that the average person who uses ChatGPT is likely to use other online services which are equal or worse.
 
 *take all numbers with a massive grain of salt as large tech companies aren't exactly willing to share*
 
