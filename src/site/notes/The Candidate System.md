@@ -17,3 +17,5 @@ I think we can see why this is flawed:
 My idea is voting instead for a candidate for each system.
 Let's call it the **Candidate System**
 Using health as an example, but this would apply to all roles. Anyone can signup to be the minister of health. They write down what they would do in that role, and then we vote for which minister we want. This way we are voting for which policies we like in a specific area. When pitching this idea to someone I was told we would still need a Prime Minister, but I don't think we do. We could always introduce ministers for the roles the PM does, or assign some of his roles to an existing minister.
+
+[[Home\|Go Home]]

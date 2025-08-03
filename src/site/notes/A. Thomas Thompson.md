@@ -32,3 +32,5 @@ It becomes a small exhibit at the British Library.
 The card beside it reads simply: Collected by A. Thomas Thompson, news agent.
 
 \- Jake McGowan
+
+[[Home\|Go Home]]

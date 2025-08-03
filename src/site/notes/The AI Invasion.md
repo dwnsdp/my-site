@@ -55,3 +55,5 @@ The thing is, this is not just lack of consent, which would be morally questiona
 
 # The AI Invasion - Conclusion
 In terms of environmental impact it seems that whilst AI is bad there are a lot of worse things to tackle, like video streaming which uses 1.6k the amount. However this is not just waste. This is unnecessary waste. With shareholders shoving AI into everything crevice they can find like a house-flipper discovering beige paint, you cannot escape AI. AI companies want you to use AI for everything so they make money. This means contracts with governments. Annoying popups with AI generated answers using water on your behalf without consent. And Google recommends you use AI to ask what a shadow is. They want you to use AI for everything. But AI does have some legitimate use cases. As much as it cannot write professional code AI *can* do basic programming and is great at answering very specific technical questions. The question of course, is would it be able to do that if it was not built on stolen content.
+
+[[Home\|Go Home]]
