@@ -1,24 +1,11 @@
-<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <rect x="37.0753" y="36.0532" width="26.8836" height="18.1139" fill="#FFFFFF"/>
-    <polygon fill="#EA5A47" stroke="#EA5A47" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="50.2353,23.2 38.1,36 63.5,36"/>
-    <path fill="#EA5A47" d="M47.3,26l-6.4,6.0595v-8.5733c0-0.9313,0.7549-1.4162,1.6862-1.4162h3.0276 c0.9313,0,1.6862,0.4849,1.6862,1.4162C47.3,23.4862,47.3,26,47.3,26z"/>
-    <rect x="43" y="42" width="6" height="12" fill="#A57939"/>
-    <rect x="54" y="42" width="6" height="5" fill="#92D3F5"/>
-    <path fill="#B1CC33" d="M41.0059,28.3393c0-3.3123-3.4447-6.0025-7.6937-6.0025c-0.3549,0.0029-0.7095,0.025-1.0622,0.0662 c-1.7995-3.4553-5.7065-5.8554-10.2499-5.8554c-6.2478,0-11.3122,4.5286-11.3122,10.1144c0.0012,0.3692,0.0247,0.738,0.0704,1.1043 C7.9656,28.6665,6,30.8102,6,33.3136c0,3.3123,3.4446,6.0025,7.6936,6.0025c1.6151,0.0139,3.2056-0.4022,4.6137-1.207 c1.8177,1.4766,4.7264,2.4385,8.0154,2.4385c5.5105,0,9.9776-2.6875,9.9776-6.0025c-0.0009-0.2191-0.0214-0.4377-0.0612-0.6531 C39.0357,32.9904,41.0059,30.8453,41.0059,28.3393z"/>
-  </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
-  <g id="line">
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="46,27 50.2353,23 64,35.0976 64,54 38,54 38,41.5482"/>
-    <rect x="43" y="42" width="6" height="12" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="54" y="42" width="6" height="5" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="43.5,23 46.5,23 46.5,26"/>
-    <path fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2" d="M31.245,39.3396"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="22.5,54 22.5,46.8269 17.5,42"/>
-    <line x1="23.0408" x2="25.885" y1="46.7265" y2="43.7657" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M41.0059,28.3393 c0-3.3123-3.4447-6.0025-7.6937-6.0025c-0.3549,0.0029-0.7095,0.025-1.0622,0.0662c-1.7995-3.4553-5.7065-5.8554-10.2499-5.8554 c-6.2478,0-11.3122,4.5286-11.3122,10.1144c0.0012,0.3692,0.0247,0.738,0.0704,1.1043C7.9656,28.6665,6,30.8102,6,33.3136 c0,3.3123,3.4446,6.0025,7.6936,6.0025c1.6151,0.0139,3.2056-0.4022,4.6137-1.207c1.8177,1.4766,4.7264,2.4385,8.0154,2.4385 c5.5105,0,9.9776-2.6875,9.9776-6.0025c-0.0009-0.2191-0.0214-0.4377-0.0612-0.6531 C39.0357,32.9904,41.0059,30.8453,41.0059,28.3393z"/>
-    <line x1="63.5" x2="42.5" y1="36" y2="36" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-  </g>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3_11)">
+<circle cx="15" cy="16" r="15" fill="black"/>
+<path d="M8.00012 11.804C7.99111 11.6407 8.49429 11.3196 8.51942 11.3011C9.1125 10.8651 9.74286 10.4793 10.4085 10.1655C11.5226 9.64034 12.8123 9.28108 14.0296 9.09769C15.7472 8.83891 17.6105 9.06539 19.0316 10.126C20.6488 11.3329 21.5186 12.903 21.6085 14.9311C21.6981 16.9531 21.202 19.1669 20.059 20.8522C18.9437 22.4966 17.039 23.7184 15.0569 23.9059C13.9007 24.0153 11.5429 24.3196 11.391 22.6517C11.2769 21.3987 12.1972 20.1933 12.9685 19.3211C14.2339 17.8901 15.9299 16.8802 17.7067 16.2221C19.794 15.4491 21.9544 15.3708 24.1544 15.5103C25.2339 15.5787 26.3346 15.6792 27.3965 15.8944C29.0469 16.229 30.4758 17.0253 32 17.7024" stroke="white" stroke-width="3" stroke-linecap="round"/>
+</g>
+<defs>
+<clipPath id="clip0_3_11">
+<rect width="32" height="32" fill="white"/>
+</clipPath>
+</defs>
 </svg>
